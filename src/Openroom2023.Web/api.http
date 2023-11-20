@@ -31,7 +31,7 @@ Content-Type: application/json
 
 {
   "id": {{id_to_update}},
-  "name": "ardalis2"
+  "name": "ardalis3"
 }
 
 ###
